@@ -1,0 +1,5 @@
+file=open(r'first_and_last_words.txt','r')
+k=file.read()
+words=k.split(' ')
+print('First word: ',words[0])
+print('Last word: ',words[-1])

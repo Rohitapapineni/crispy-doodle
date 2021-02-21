@@ -1,0 +1,11 @@
+import csv
+fields=['EMPNO','EMP NAME','SALARY']
+rows=[[1,'Amit',6000]
+      [2,'Suresh Kumar',8000]
+      [3,'Gabbar',75000]]
+filename='file.csv'
+f=open('file.csv',w)
+csv_writer=csv.writer(csvfile)
+csv_writer.writerow(fields)
+csv_writer.writerows(rows)
+f.close()
