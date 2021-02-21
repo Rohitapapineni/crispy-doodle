@@ -1,6 +1,6 @@
 WHAT IS THIS REPOSITORY IS ABOUT?:
 
-This repository consists of programs fromm Python CBSE topics Series, Recursion, Functions, Patterns, File Handling, Tkinter, SQL Connectivity and some projects like Typing speed test.
+This repository consists of programs from Python CBSE topics Series, Recursion, Functions, Patterns, File Handling, Tkinter, SQL Connectivity and some projects like Typing speed test.
 
 
 HOW TO ACCESS THE FILES ON YOUR PC:
