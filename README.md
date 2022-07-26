@@ -11,6 +11,7 @@ This repository consists of programs from Python CBSE topics
 
 And some projects like
 # Typing speed test.
+# Scientific Calculator
 
 
 HOW TO ACCESS THE FILES ON YOUR PC:
