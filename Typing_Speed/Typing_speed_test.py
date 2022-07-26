@@ -145,7 +145,7 @@ def speedcheck():
     entered_words=(speedcheck_entry.get()).split()
     errorcount=0
     correct_words=0
-    for i in range(0,len(total_words)):
+    for i in range(0,len(entered_words)):
         if total_words[i]==entered_words[i]:
             correct_words+=1
         else:
